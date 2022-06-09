@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-booking-app/static/css/main.e9cbe2de.css",
+    "main.js": "/react-booking-app/static/js/main.e177f44d.js",
+    "static/media/screenshot-react-booking-1.png": "/react-booking-app/static/media/screenshot-react-booking-1.077977cf3b41882e7d54.png",
+    "index.html": "/react-booking-app/index.html",
+    "main.e9cbe2de.css.map": "/react-booking-app/static/css/main.e9cbe2de.css.map",
+    "main.e177f44d.js.map": "/react-booking-app/static/js/main.e177f44d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9cbe2de.css",
+    "static/js/main.e177f44d.js"
+  ]
+}
